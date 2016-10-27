@@ -1,0 +1,17 @@
+"-------------------------------------------
+" basic
+"
+
+syntax on
+set ai
+set number
+set encoding=utf-8
+set visualbell
+set noerrorbells
+
+"-------------------------------------------
+" NERDTree
+"
+
+let NERTreeCaseSensitiveSort=1
+let NERDTreeQuitOnOpen=1

@@ -1,0 +1,6 @@
+function prompt {
+  export PS1=""
+  export PS2=" | → $RESTCOLOR"
+}
+
+prompt
